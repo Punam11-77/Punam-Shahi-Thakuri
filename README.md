@@ -1,5 +1,5 @@
 # Punam-Shahi-Thakuri
-<!DOCTYPE html
+<!DOCTYPE html>
 <html>
 <body>
 <h1 style="colour:violet;">Welcome to my github channel</h1>
